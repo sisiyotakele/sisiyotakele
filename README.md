@@ -3,14 +3,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://committers.top/ethiopia">
-    <img src="https://user-badge.committers.top/ethiopia/sisiyotakele.svg" alt="committers.top badge" />
-  </a>
-  &nbsp;
-  <strong>One of the Top GitHub Committers in Ethiopia 🇪🇹</strong>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+AASTU;Full-Stack+Web+Developer;ML+%26+AI+Enthusiast;Building+modern%2C+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
@@ -98,7 +90,7 @@
 
 <p align="center">
   <a href="https://t.me/yidatke">
-    <img src="https://img.shields.io/badge/Telegram-@yidatke-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-@yidatake-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   &nbsp;
   <a href="https://github.com/sisiyotakele">
