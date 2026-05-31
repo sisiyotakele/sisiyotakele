@@ -1,121 +1,116 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sisiyo+Takele+%F0%9F%91%8B;Software+Engineering+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  &lt; Hi there 👋 I'm Sisiyo Takele /&gt;
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sisiyotakele&label=Profile%20views&color=00d9ff&style=flat" alt="sisiyotakele" />
-  <a href="https://github.com/sisiyotakele?tab=followers">
-    <img src="https://img.shields.io/github/followers/sisiyotakele?label=Followers&style=social" alt="GitHub Badge">
+  <a href="https://committers.top/ethiopia">
+    <img src="https://user-badge.committers.top/ethiopia/sisiyotakele.svg" alt="committers.top badge" />
   </a>
+  &nbsp;
+  <strong>One of the Top GitHub Committers in Ethiopia 🇪🇹</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+AASTU;Full-Stack+Web+Developer;ML+%26+AI+Enthusiast;Building+modern%2C+intelligent+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=A0A0A0&center=true&vCenter=true&width=650&lines=Continuously+building+modern%2C+interactive+web+applications;...and+exploring+intelligent%2C+data-driven+solutions." alt="Typing SVG 2" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🧰 Tech Stack
 
-```python
-class SisiyoTakele:
-    def __init__(self):
-        self.name        = "Sisiyo Takele"
-        self.username    = "sisiyotakele"
-        self.university  = "Addis Ababa Science & Technology University (AASTU)"
-        self.degree      = "Software Engineering"
-        self.passions    = ["Full-Stack Development", "AI/ML", "Competitive Programming"]
-        self.currently   = "Building cool things & learning every day 🚀"
-        self.fun_fact    = "I debug code the same way I solve puzzles — one piece at a time."
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
-
-me = SisiyoTakele()
-me.say_hi()
-```
+| Category | Technologies |
+|----------|-------------|
+| 🎨 **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| 🛠️ **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| 🗄️ **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| ☁️ **Cloud & Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) |
+| 🔌 **BaaS** | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| 🎨 **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
 
 ---
 
-## 🛠️ Tech Stack
+## 🌍 Project Highlights
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🏆 Main Projects
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|---------|--------|
+| **FaceAuth — AI Biometric Login System** | Python, Flask, ML, Facial Recognition | [GitHub Repo](https://github.com/sisiyotakele/faceauth) |
+| **PanSave — Community Savings Platform** | React, Node.js, SMS API, Flutterwave, Telebirr | [GitHub Repo](https://github.com/sisiyotakele/pansave) |
+| **BankruptcySense AI** | Python, ML, Financial Indicators | [GitHub Repo](https://github.com/sisiyotakele/bankruptcysense) |
+| **Food Preservation System** | Next.js, MongoDB, C++ (ESP32), DHT22 | [GitHub Repo](https://github.com/sisiyotakele/Food_Preservation) |
 
-### Cloud & Databases
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+### 📦 Mini-Projects
 
-### Tools & Design
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+#### 👤 Solo Projects
+
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|---------|--------|
+| **AASTU Student Clearance Management** | Java, Auth, DB | [GitHub Repo](https://github.com/sisiyotakele/Clearance-managment) |
+
+#### 🤝 Group Projects
+
+| 🚀 Project | 🔧 Stack | 👁️ View |
+|-----------|---------|--------|
+| **E-Commerce Website** | JavaScript, PHP, MySQL, SCSS | [GitHub Repo](https://github.com/sisiyotakele/Ecom) |
+| **IP-I Projects** | HTML, Full Stack | [GitHub Repo](https://github.com/sisiyotakele/IP-I-Projects) |
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisiyotakele&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sisiyotakele&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisiyotakele&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sisiyotakele&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [IP-I-Projects](https://github.com/sisiyotakele/IP-I-Projects) | Internet Programming I coursework at AASTU | HTML |
-| [team-weekly-report-system](https://github.com/sisiyotakele/team-weekly-report-system) | Team reporting & management system | — |
-| [Clearance-management](https://github.com/sisiyotakele/Clearance-managment) | Clearance workflow management app | Java |
-| [Ecom](https://github.com/sisiyotakele/Ecom) | PHP-based e-commerce platform | JavaScript |
-
----
-
-## ✍️ Dev Quote of the Day
+### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sisiyotakele&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sisiyotakele&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisiyotakele&theme=tokyonight&hide_border=false&layout=compact" width="48%" alt="Top Languages"/>
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 🧠 Coding Profiles
 
 <p align="center">
-  <a href="https://github.com/sisiyotakele">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://leetcard.jacoblin.cool/sisiyotakele?theme=dark&font=Fira%20Code&ext=contest" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=sisiyotakele&theme=dark" alt="Codeforces Stats" />
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://t.me/yidatke">
+    <img src="https://img.shields.io/badge/Telegram-@yidatke-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <!-- Add more links below once available -->
-  <!-- <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  &nbsp;
+  <a href="https://github.com/sisiyotakele">
+    <img src="https://img.shields.io/badge/GitHub-sisiyotakele-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
+
+<p align="center">
+  <em>Thanks for visiting! Let's build legacy together. 🚀</em>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=100&section=footer" />
