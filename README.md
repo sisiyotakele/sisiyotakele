@@ -52,21 +52,19 @@
 | **IP-I Projects** | HTML, Full Stack | [GitHub Repo](https://github.com/sisiyotakele/IP-I-Projects) |
 
 ---
-
 📊 GitHub Stats
+🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sisiyotakele&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sisiyotakele&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sisiyotakele&theme=tokyonight&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sisiyotakele&theme=tokyonight&column=-1&margin-w=8" alt="GitHub Trophies"/>
 </p>
-📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sisiyotakele&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=sisiyotakele&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisiyotakele&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="48%" alt="Top Languages"/>
-</p>
----
 
 ## 🧠 Coding Profiles
 
