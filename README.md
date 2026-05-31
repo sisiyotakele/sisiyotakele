@@ -64,6 +64,10 @@
 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sisiyotakele&theme=tokyonight&column=-1&margin-w=8" alt="GitHub Trophies"/>
+🗣️ Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sisiyotakele&theme=tokyonight&hide_border=true&layout=donut&langs_count=8" alt="Top Languages"/>
+</p>
 </p>
 
 ## 🧠 Coding Profiles
